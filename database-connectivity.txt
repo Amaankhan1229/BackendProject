@@ -1,0 +1,49 @@
+
+
+sql vs no-sql
+
+sql -> structured query langauge
+defined way -> command is unchangable
+data -> row-cols - exist data fig -> predefined
+
+data  -> user -> {name, fname password email:type }
+
+1000 fname 
+fname null 
+
+
+no-sql 
+
+json -> changes -> data -> basic  structure-> {
+    id:uniqueid(16),
+
+} 
+
+no-sql -> rules -> no principles like ACID
+
+
+database by default -> 
+
+data server online 
+no-sql -> mongodb, mongodb compass, mongodb atlas , mongodb tools and command line
+
+command -> unchangable
+
+
+db-> collections -> documents
+
+
+complete
+
+
+
+MERN  -> mongodb ,  Express , react , node js 
+
+nodemon
+bcrypt
+zod
+uuid
+jwt
+mongoose
+
+complete

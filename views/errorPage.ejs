@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Error</title>
+    <%- include('./partials/common.ejs') %>
+  </head>
+  <body>
+    <div
+      class="bg-black text-white h-screen flex flex-col justify-center items-center"
+    >
+      <h1 style="font-size: 4rem" class="text-red-900">Error Occur</h1>
+      <p><%= errorMessage %></p>
+    </div>
+  </body>
+</html>
